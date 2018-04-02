@@ -12,6 +12,5 @@ while count > 0:
     ReversedSentence = sentence[count-1:count]
     SentenceReversed = SentenceReversed + ReversedSentence
     count = count - 1
-"""
-"""
+
 print ("Your sentence reversed is: " + SentenceReversed)
